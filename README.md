@@ -17,6 +17,7 @@ This dataset is a data from Google Merchandise Store (also known as GStore, wher
 
 ## Project Detail
 The goals is to predicting the natural log of the sum of all transactions per user. 
+![alt text] https://github.com/leoniemwindari/customer_revenue_prediction/blob/main/image.png
 
 **Machine Learning Models:**
 For this project I will implement the data to these models and determine which one fits the best:
