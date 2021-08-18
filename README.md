@@ -1,19 +1,22 @@
 # Customer Revenue Prediction : Project Overview
-
+This project comes from Pareto Principle that states that 80% of your company sales comes from 20% of your customers. In this project, I will analyze data from Google Merchandise Store (also known as GStore, where Google swag is sold) to predict revenue from each customers. By doing this project, hopefuly it can helps small businesses on projecting their budget to get the most of it. Hopefuly we can also see how's the customer behavior on buying things and what variable affecting the company revenue the most.
    
 ## Questions :
+1. 
 
 ## Code and Resources Used 
-**Python Version:** 3.7  
+**Python Version:** 3.8 
 **Packages:** 
 
 ## Dataset
+This dataset is a data from Google Merchandise Store (also known as GStore, where Google swag is sold).
 * Source : Kaggle - https://www.kaggle.com/c/ga-customer-revenue-prediction/data
-* Methodology : The dataset is from a survey that Kaggle did by sending invitation to the entire Kaggle commmunity. It was also promoted on the Kaggle website and Twitter. The survey was from 7-30 October 2020. 
+* Note : Per row is one visit to the store, while the result will be the total revenue per user. There are multiple columns which contain JSON blobs of varying depth. In one of those JSON columns, totals, the sub-column transactionRevenue contains the revenue information we are trying to predict. This sub-column exists only for the training data.
+* **Due to the formatting of fullVisitorId you must load the Id's as strings in order for all Id's to be properly unique!**
 
 
 ## Project Detail
-
+The goals is to predicting the natural log of the sum of all transactions per user. 
 
 **Machine Learning Models:**
 For this project I will implement the data to these models and determine which one fits the best:
