@@ -3,6 +3,7 @@ This project comes from Pareto Principle that states that 80% of your company sa
    
 ## Code and Resources Used 
 **Python Version:** 3.8 
+
 **Packages:** 
 
 ## Dataset
