@@ -34,6 +34,7 @@ To determine which machine learning model fits the dataset the best, I will use 
 
 ## Step-by-Step Project:
 ## Data Wrangling
+1. Extracting values from some variables with JSON type
 
 
 ## Data Analysis
