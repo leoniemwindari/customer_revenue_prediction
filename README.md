@@ -35,6 +35,7 @@ To determine which machine learning model fits the dataset the best, I will use 
 ## Step-by-Step Project:
 ## Data Wrangling
 1. Extracting values from some variables with JSON type and Nested Dictionary
+2. Some column might not be detected as JSON type so I made a function to get all value in the nested dictionary 
 
 
 ## Data Analysis
