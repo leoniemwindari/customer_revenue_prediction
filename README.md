@@ -18,6 +18,14 @@ The goals is to predict the natural log of the sum of all transactions per user 
 
 ![alt text](https://github.com/leoniemwindari/customer_revenue_prediction/blob/main/image.png)
 
+1. Target Variable Exploration
+* Sums up the revenue for each user and make a plot to find some insight
+* See if the ratio of customer is 20/80
+2. Number of unique visitors and common visitors
+3. Exclude columns with constant value and null values
+4. Visualize device browser to see from where the customers is visiting the website
+(https://www.kaggle.com/sudalairajkumar/simple-exploration-baseline-ga-customer-revenue)
+
 **Machine Learning Models:**
 For this project I will implement the data to these models and determine which one fits the best:
 * Logistic Regression
