@@ -1,7 +1,7 @@
 # Customer Revenue Prediction : Project Overview
 This project comes from Pareto Principle that states that 80% of your company sales comes from 20% of your customers. In this project, I will analyze data from Google Merchandise Store (also known as GStore, where Google swag is sold) to predict revenue from each customers. By doing this project, hopefuly it can helps small businesses on projecting their budget to get the most of it. Hopefuly we can also see how's the customer behavior on buying things and what variable affecting the company revenue the most.
     
-## Code and Resources Used 
+## Code and Resources Used  
 **Python Version:** 3.8 
 
 **Packages:** 
